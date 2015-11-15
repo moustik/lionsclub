@@ -6,7 +6,7 @@ from pygame.locals import*
 
 img = pygame.image.load('C:\\Users\\museomix\\lionsclub\\deadguy\\museomix_mapping_gisant_fuschia-01-01.jpg')
 img = pygame.transform.scale(img,(1280, 1024))
-secret = 'C:\\Users\\museomix\\lionsclub\\deadguy\\LeSecretDuLion-Eglise-16Bit.mp3'
+secret = 'C:\\Users\\museomix\\lionsclub\\deadguy\\lion.mp3'
 
 def start_mapping():
     screen.fill((white))
